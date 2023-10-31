@@ -6,8 +6,8 @@
 | ---------- | ---------------------------------------------------------------------------------------------------------- |
 | Repository | https://github.com/onmeds4dc/onmed-gatsby                                                                  |
 | CMS        | Wordpress                                                                                                  |
-| Front End  | [React](https://react.dev/) and [Gatsby](https://www.gatsbyjs.com/)                                        |
-| Deploys    | [Gatsby Cloud](https://www.gatsbyjs.com/dashboard/organization/ecde845d-1818-44f6-a363-1e51415ba69a/sites) |
+| Front End  | [React](https://react.dev/) and [Netlify](https://app.netlify.com/)                                        |
+| Deploys    | [Netlify CLoud](https://app.netlify.com/sites/shiny-sundae-9af053/overview)                                |
 | Fonts      | [Adobe](https://fonts.adobe.com/my_fonts#web_projects-section) (Lisence: )                                 |
 | Paragraph  | Text                                                                                                       |
 
