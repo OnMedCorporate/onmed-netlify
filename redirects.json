@@ -6,5 +6,9 @@
     {
         "fromPath": "/tamu/",
         "toPath": "http://onmed.biz/tamu/"
+    },
+    {
+        "fromPath": "onmed.com",
+        "toPath": "https://www.onmed.com"
     }
 ]
