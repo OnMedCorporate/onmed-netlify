@@ -52,11 +52,17 @@ const PartnersPage = ({ data }) => {
             headline="Easy to set up"
             body={
                 <p>
-                    OnMed Care Stations are easy to install and provide
-                    comprehensive virtual care services 7 days a week with
-                    extended hours, when and where patients need it most. Simple
-                    and modern design, with almost no physical requirements -
-                    just an outlet and an internet connection.
+                    OnMed Care Stations are easy to install and provide 
+                    comprehensive virtual care services 7 days a week with 
+                    extended hours, when and where patients need it most. Our 
+                    simple and modern design has almost no physical requirements - 
+                    just an outlet and an internet connection. We account for the 
+                    unique needs of our sponsors by offering a variety of hardware 
+                    configurations, from hard wire or satellite internet connectivity, 
+                    to location-specific placement specifications. Additionally, we 
+                    configure our services, including hours of operations, to meet the 
+                    distinct care objectives of our sponsors and needs of the target 
+                    patient population.
                 </p>
             }
             img={<ImgBooth />}
@@ -83,9 +89,13 @@ const PartnersPage = ({ data }) => {
                     <dl className="dl-primary lead row">
                         <dt>3 Year Licensing Agreement</dt>
                         <dd>
-                            OnMed Care Stations are available through a 3-year
-                            Licensing Agreement with all terms and conditions
-                            spelled out in the Agreement.
+                            OnMed Care Stations are typically available through 
+                            a multi-year Licensing Agreement with all terms and 
+                            conditions spelled out in the Agreement. We offer a 
+                            variety of configurations and pricing options based 
+                            on the unique needs of our sponsors. Our customer 
+                            teams work together with you to determine the best 
+                            fit for your specific business goals. 
                         </dd>
                         <div className="100%"></div>
 
@@ -109,13 +119,12 @@ const PartnersPage = ({ data }) => {
                         <div className="100%"></div>
                         <dt>Single or Double OnMed Care Stations</dt>
                         <dd>
-                            The OnMed Care Station is available in two
-                            configurations; a Single Room, featuring one patient
-                            consult room with attached Robotic Dispensing System
-                            and embedded software and servers or a Double Room,
-                            featuring two patient consult rooms with the Robotic
-                            Dispensing System and embedded software and servers
-                            configured between the patient rooms.
+                            The OnMed Care Station is currently available in two 
+                            different configurations; a Single Room, featuring 
+                            one patient consult room or a Double Room, featuring 
+                            two patient consult rooms. Both options include 
+                            embedded software and servers, and can be configured 
+                            with or without the Robotic Dispensing System.  
                         </dd>
                         <div className="100%"></div>
                         <dt>Location &amp; Installation Requirements</dt>
