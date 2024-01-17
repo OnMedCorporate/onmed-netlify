@@ -81,7 +81,7 @@ const PrivacyPage = ({ data }) => {
                         <li>Publicly available information from government records.</li>
                         <li>Deidentified or aggregated consumer information.</li>
                         <li>Information excluded from the CCPA’s scope, like:</li>
-                        <li>health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data (which means if you are a member of Teladoc and you log into the secure portion of our website, this Policy does not apply to the information collected or used on the secure portals);</li>
+                        <li>health or medical information covered by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and the California Confidentiality of Medical Information Act (CMIA) or clinical trial data (which means if you are a member of OnMed and you log into the secure portion of our website, this Policy does not apply to the information collected or used on the secure portals);</li>
                         <li>personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FRCA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver’s Privacy Protection Act of 1994.</li>
                     </ul>
                     <p>ONMED obtains the categories of personal information listed above from the following categories of sources:</p>
@@ -95,7 +95,7 @@ const PrivacyPage = ({ data }) => {
                     <ul>
                         <li>To supervise, administer and monitor the Websites.</li>
                         <li>To measure and improve the quality, the effectiveness and the delivery of our Websites.</li>
-                        <li>Market Teladoc’s services to you</li>
+                        <li>Market OnMed’s services to you</li>
                         <li>To respond to law enforcement requests and as required by applicable law, court order, or governmental regulations.</li>
                         <li>To provide, support, personalize, and develop our Websites.</li>
                         <li>To personalize your Website experience and to deliver content and product and service offerings relevant to your interests, including targeted offers and ads through our Websites and third-party sites.</li>
@@ -120,7 +120,7 @@ const PrivacyPage = ({ data }) => {
                     <h2 class="h6 mt-5">YOUR RIGHTS AND CHOICES</h2>
                     <p>The CCPA provides consumers (California residents) with specific rights regarding their personal information. This section describes your CCPA rights and explains how to exercise those rights.</p>
                     <h2 class="h6 mt-5">Right to Request Access to Information</h2>
-                    <p>You have the right to request that Teladoc notifies you of the personal information about you that we have collected and used. Once we receive and confirm your verifiable consumer request (see Exercising Access, Data Portability, and Deletion Rights), we will disclose to you:</p>
+                    <p>You have the right to request that OnMed notifies you of the personal information about you that we have collected and used. Once we receive and confirm your verifiable consumer request (see Exercising Access, Data Portability, and Deletion Rights), we will disclose to you:</p>
                     <ul>
                         <li>The categories of personal information we collected about you.</li>
                         <li>The categories of sources for the personal information we collected about you.</li>
