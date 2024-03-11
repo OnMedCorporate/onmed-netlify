@@ -3,18 +3,13 @@ import Layout from "../components/layout";
 import MetaTags from "../components/meta-tags";
 import CardColsSecondary from "../components/card-cols-secondary";
 import { ImgInnovationForReal } from "../components/images/general/innovation-for-real";
-import { ImgPortraitTomVanderheyden } from "../components/images/portraits/tom-vanderheyden";
-import { ImgPortraitRyanBrock } from "../components/images/portraits/ryan-brock";
+import { ImgPortraitKarthikGanesh } from "../components/images/portraits/karthik-ganesh";
 import { ImgPortraitSteveJohnston } from "../components/images/portraits/steve-johnston";
 import { ImgPortraitPlaceholder } from "../components/images/portraits/placeholder";
 import { ImgPortraitMikeZeman } from "../components/images/portraits/mike-zeman";
 import { ImgPortraitPatriciaAgnello } from "../components/images/portraits/patricia-agnello";
-import { ImgPortraitMarkRoyals } from "../components/images/portraits/mark-royals";
-import { ImgPortraitLeonardSolio } from "../components/images/portraits/leonard-solio";
-import { ImgPortraitMalienaLongley } from "../components/images/portraits/maliena-longley";
-import { ImgPortraitJimSparks } from "../components/images/portraits/jim-sparks";
+import { ImgPortraitAnnaYounger } from "../components/images/portraits/annayounger";
 import { ImgPortraitHowardGruverman } from "../components/images/portraits/howard-gruverman";
-import { ImgPortraitChrisKent } from "../components/images/portraits/chris-kent";
 import { ImgHeroWomanScreenWomanTouchscreen } from "../components/images/heroes/woman-screen-woman-touchscreen";
 
 import Hero from "../components/hero";
@@ -111,65 +106,36 @@ const AboutPage = ({ data }) => {
             <h2 className="text-primary text-center my-6">Leadership Team</h2>
             <div className="row">
                 <LeadershipItem
-                    name="Tom Vanderheyden"
-                    title="Chief executive officer"
-                    img={<ImgPortraitTomVanderheyden />}
-                />
-                <LeadershipItem
-                    name="Chris Kent"
-                    title="Chief operating Officer"
-                    img={<ImgPortraitChrisKent />}
+                    name="Karthik Ganesh"
+                    title="Chief Executive Officer"
+                    img={<ImgPortraitKarthikGanesh />}
                 />
                 <LeadershipItem
                     name="Howard Gruverman"
                     title="Chief Commercial Officer"
                     img={<ImgPortraitHowardGruverman />}
                 />
-                <LeadershipItem
-                    name="Jim Sparks"
-                    title="Chief Financial Officer"
-                    img={<ImgPortraitJimSparks />}
+		<LeadershipItem
+                    name="Anna Younger"
+                    title="Chief Product Officer"
+                    img={<ImgPortraitAnnaYounger />}
                 />
-                <LeadershipItem
-                    name="Maliena Longley"
-                    title="Chief Medical officer"
-                    img={<ImgPortraitMalienaLongley />}
-                />
-                <LeadershipItem
-                    name="Mike Zeman"
-                    title="Chief Marketing Officer"
-                    img={<ImgPortraitMikeZeman />}
-                />
-                <LeadershipItem
+		<LeadershipItem
                     name="Patricia Agnello"
                     title="Chief HR Officer &amp; Employment Counsel"
                     img={<ImgPortraitPatriciaAgnello />}
-                />
-                <LeadershipItem
-                    name="Ryan Brock"
-                    title="Chief of Staff<br /> Founder"
-                    img={<ImgPortraitRyanBrock />}
                 />
                 <LeadershipItem
                     name="Steve Johnston"
                     title="Chief legal officer"
                     img={<ImgPortraitSteveJohnston />}
                 />
-                <LeadershipItem
-                    name="Leonard Solie"
-                    title="Board Chair<br /> Founder"
-                    img={<ImgPortraitLeonardSolio />}
+		<LeadershipItem
+                    name="Mike Zeman"
+                    title="Chief Marketing Officer"
+                    img={<ImgPortraitMikeZeman />}
                 />
-                <LeadershipItem
-                    name="Mark Royals"
-                    title="Board Member<br /> Founder"
-                    img={<ImgPortraitMarkRoyals />}
-                />
-                <LeadershipItem
-                    name="Robert Forsythe"
-                    title="Board Member<br /> Third Lake Capital"
-                    img={<ImgPortraitPlaceholder />}
-                />
+
             </div>
         </section>
     );
