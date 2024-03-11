@@ -3,12 +3,12 @@ import Layout from "../components/layout";
 import MetaTags from "../components/meta-tags";
 import CardColsSecondary from "../components/card-cols-secondary";
 import { ImgInnovationForReal } from "../components/images/general/innovation-for-real";
-import { ImgPortraitKarthikGanesh } from "../components/images/portraits/karthik-ganesh";
+import { ImgPortraitKarthikGanesh } from "../components/images/portraits/Karthik-Ganesh";
 import { ImgPortraitSteveJohnston } from "../components/images/portraits/steve-johnston";
 import { ImgPortraitPlaceholder } from "../components/images/portraits/placeholder";
 import { ImgPortraitMikeZeman } from "../components/images/portraits/mike-zeman";
 import { ImgPortraitPatriciaAgnello } from "../components/images/portraits/patricia-agnello";
-import { ImgPortraitAnnaYounger } from "../components/images/portraits/annayounger";
+import { ImgPortraitAnnaYounger } from "../components/images/portraits/AnnaYounger";
 import { ImgPortraitHowardGruverman } from "../components/images/portraits/howard-gruverman";
 import { ImgHeroWomanScreenWomanTouchscreen } from "../components/images/heroes/woman-screen-woman-touchscreen";
 
