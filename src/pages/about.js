@@ -19,7 +19,7 @@ import Hero from "../components/hero";
 
 const LeadershipItem = (props) => {
     return (
-        <div className="col-md-6 col-lg-4 mb-md-6">
+        <div className="col-md-8 col-lg-4 mb-md-8">
             {props.img}
             <h5 className="mt-3 mb-0 text-primary">{props.name}</h5>
             <p
@@ -104,7 +104,7 @@ const AboutPage = ({ data }) => {
     );
 
     const sectionLeadershipTeam = (
-        <section className="container pt-8 pb-8 pb-md-0">
+        <section className="container pt-6 pb-6 pb-md-0">
             <h2 className="text-primary text-center my-6">Leadership Team</h2>
             <div className="row">
                 <LeadershipItem
