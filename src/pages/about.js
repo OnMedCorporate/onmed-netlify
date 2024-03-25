@@ -19,7 +19,7 @@ import Hero from "../components/hero";
 
 const LeadershipItem = (props) => {
     return (
-        <div className="col-md-8 col-lg-4 mb-md-8">
+        <div className="col-md-6 col-lg-4 mb-md-6">
             {props.img}
             <h5 className="mt-3 mb-0 text-primary">{props.name}</h5>
             <p
