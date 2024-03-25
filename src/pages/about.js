@@ -9,6 +9,8 @@ import { ImgPortraitPlaceholder } from "../components/images/portraits/placehold
 import { ImgPortraitMikeZeman } from "../components/images/portraits/mike-zeman";
 import { ImgPortraitPatriciaAgnello } from "../components/images/portraits/patricia-agnello";
 import { ImgPortraitAnnaYounger } from "../components/images/portraits/AnnaYounger";
+import { ImgPortraitAshleyChristy } from "../components/images/portraits/Ashley-Christy";
+import { ImgPortraitJaimeDictenberg } from "../components/images/portraits/Jaime-Dictenberg";
 import { ImgPortraitHowardGruverman } from "../components/images/portraits/howard-gruverman";
 import { ImgHeroWomanScreenWomanTouchscreen } from "../components/images/heroes/woman-screen-woman-touchscreen";
 
