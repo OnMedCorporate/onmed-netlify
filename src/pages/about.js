@@ -104,7 +104,7 @@ const AboutPage = ({ data }) => {
     );
 
     const sectionLeadershipTeam = (
-        <section className="container pt-6 pb-6 pb-md-0">
+        <section className="container pt-8 pb-8 pb-md-0">
             <h2 className="text-primary text-center my-6">Leadership Team</h2>
             <div className="row">
                 <LeadershipItem
@@ -121,6 +121,11 @@ const AboutPage = ({ data }) => {
                     name="Ashley Christy"
                     title="Chief Operating Officer"
                     img={<ImgPortraitAshleyChristy />}
+                />
+		<LeadershipItem
+                    name="Steve Johnston"
+                    title="Chief Legal Officer"
+                    img={<ImgPortraitSteveJohnston />}
                 />
 		<LeadershipItem
                     name="Patricia Agnello"
