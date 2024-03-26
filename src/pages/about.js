@@ -123,13 +123,8 @@ const AboutPage = ({ data }) => {
                     img={<ImgPortraitAshleyChristy />}
                 />
 		<LeadershipItem
-                    name="Steve Johnston"
-                    title="Chief Legal Officer"
-                    img={<ImgPortraitSteveJohnston />}
-                />
-		<LeadershipItem
                     name="Patricia Agnello"
-                    title="Chief HR Officer &amp; Employment Counsel"
+                    title="Chief People Officer & Employment Counsel"
                     img={<ImgPortraitPatriciaAgnello />}
                 />
                 <LeadershipItem
@@ -142,6 +137,12 @@ const AboutPage = ({ data }) => {
                     title="Chief Product Officer"
                     img={<ImgPortraitAnnaYounger />}
                 />
+		<LeadershipItem
+                    name="Steve Johnston"
+                    title="General Counsel"
+                    img={<ImgPortraitSteveJohnston />}
+                />
+		
 
             </div>
         </section>
