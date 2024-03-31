@@ -128,9 +128,9 @@ const AboutPage = ({ data }) => {
                     img={<ImgPortraitPatriciaAgnello />}
                 />
                 <LeadershipItem
-                    name="Mike Zeman"
+                    name="Jaime Dictenberg"
                     title="Chief Marketing Officer"
-                    img={<ImgPortraitMikeZeman />}
+                    img={<ImgPortraitJaimeDictenberg />}
                 />
 		<LeadershipItem
                     name="Anna Younger"
