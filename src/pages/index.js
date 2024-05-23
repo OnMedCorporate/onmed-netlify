@@ -327,13 +327,13 @@ const IndexPage = ({ data }) => {
             </div>
         </section>
     );
-    /*const sectionContact = (
-        <ContactForm
+    const sectionContact = (
+        /*<ContactForm
             headline="Opening more doors to healthcare for everyone"
             body="Please complete this form to learn more about how to be a Partner with OnMed.
             An OnMed team member will be in touch shortly."
-        />
-    );*/
+        />*/
+    );
 
     function Video() {
         const [lgShow, setLgShow] = useState(false);
