@@ -330,8 +330,8 @@ const IndexPage = ({ data }) => {
     const sectionContact = (
         <ContactForm
             headline="Opening more doors to healthcare for everyone"
-            body="Please complete this form to learn more about how to be a Partner with OnMed.
-            An OnMed team member will be in touch shortly."
+            body=/*"Please complete this form to learn more about how to be a Partner with OnMed.
+            An OnMed team member will be in touch shortly."*/
         />
     );
 
