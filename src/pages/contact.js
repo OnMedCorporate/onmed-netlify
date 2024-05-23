@@ -17,8 +17,8 @@ const AboutPage = ({ data }) => {
     const sectionContact = (
         <section className="container py-4 ">
             <p className="lead py-4 py-md-6 text-center">
-                Please complete this form, and a member of our team will be in
-                touch shortly.
+                /*Please complete this form, and a member of our team will be in
+                touch shortly.*/
             </p>
             <div className="row justify-content-center">
                 <div className="col-md-9 col-md-6">
