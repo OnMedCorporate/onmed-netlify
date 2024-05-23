@@ -216,8 +216,8 @@ const PartnersPage = ({ data }) => {
 
     const sectionContact = (
         <ContactForm
-            headline="Request more information and set up a meeting"
-            body="Please complete this form, and a member of our team will be in touch shortly. "
+            headline=""
+            body=""
         />
     );
 
