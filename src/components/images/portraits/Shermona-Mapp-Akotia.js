@@ -1,7 +1,7 @@
 import React from "react";
 import { StaticImage } from "gatsby-plugin-image";
 
-export function ImgPortraitAnnaYounger(props) {
+export function ImgPortraitShermonaMappAkotia(props) {
     return (
         <StaticImage
             src="../../../../static/images/portraits/Shermona-Mapp-Akotia.jpg"
