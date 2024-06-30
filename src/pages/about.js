@@ -152,7 +152,7 @@ const AboutPage = ({ data }) => {
         </Layout>
     );
 };
-
+ 
 export default AboutPage;
 
 export const Head = () => {
