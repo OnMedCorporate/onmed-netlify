@@ -12,6 +12,7 @@ import { ImgPortraitShermonaMappAkotia } from "../components/images/portraits/Sh
 import { ImgPortraitAshleyChristy } from "../components/images/portraits/Ashley-Christy";
 import { ImgPortraitJaimeDictenberg } from "../components/images/portraits/Jaime-Dictenberg";
 import { ImgPortraitHowardGruverman } from "../components/images/portraits/howard-gruverman";
+import { ImgPortraitAsgharHusain } from "../components/images/portraits/Asghar-Husain";
 import { ImgHeroWomanScreenWomanTouchscreen } from "../components/images/heroes/woman-screen-woman-touchscreen";
 
 import Hero from "../components/hero";
@@ -123,16 +124,21 @@ const AboutPage = ({ data }) => {
                     img={<ImgPortraitAshleyChristy />}
                 />
 		<LeadershipItem
-                    name="Patricia Agnello"
-                    title="Chief People Officer & Employment Counsel"
-                    img={<ImgPortraitPatriciaAgnello />}
+                    name="Asghar Husain"
+                    title="Chief Financial Officer"
+                    img={<ImgPortraitAsgharHusain />}
                 />
-                <LeadershipItem
+		<LeadershipItem
                     name="Jaime Dictenberg"
                     title="Chief Marketing Officer"
                     img={<ImgPortraitJaimeDictenberg />}
                 />
 		<LeadershipItem
+                    name="Patricia Agnello"
+                    title="Chief People Officer & Employment Counsel"
+                    img={<ImgPortraitPatriciaAgnello />}
+                />
+                <LeadershipItem
                     name="Shermona Mapp Akotia"
                     title="General Counsel"
                     img={<ImgPortraitShermonaMappAkotia />}
