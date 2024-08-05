@@ -116,7 +116,7 @@ const PrivacyPage = ({ data }) => {
                         <div className="100%"></div>
                     </dl>
                     <dl className="dl-primary lead row">
-                        <h2>Who gets to see your medical information?</h2>
+                        <h3>Who gets to see your medical information?</h3>
                         <dt>Treatment</dt>
                         <dd>
                             <li>Example: A nurse treating you for an illness asks another nurse or doctor about your illness to help you get better.</li>
@@ -133,6 +133,23 @@ const PrivacyPage = ({ data }) => {
                         <dt>Billing</dt>
                         <dd>
                             <li>Example: We give your health information to your health insurance plan so it will pay for your visit.</li>
+                        </dd>
+                        
+                        <div className="100%"></div>
+                    </dl>
+                    <dl className="dl-primary lead row">
+                        <h3>Who else might get to see your medical information?</h3>
+                        <dt>We might also share your medical information in some special cases, like:</dt>
+                        <dd>
+                            <li>Emergencies: If there is a fire or an accident, doctors might need to share your information to help you quickly.</li>
+                            <li>Helping Others Get Healthy: Sometimes doctors use medical information to learn more about diseases and how to keep everyone healthy. This is called research, and it helps doctors find cures and better treatments.</li>
+                            <li>Following the Rules: There are laws about keeping people safe and healthy. Sometimes we need to share your information to follow these laws.</li>
+                            <li>Helping People in need: If someone needs an organ transplant to get better, we might share your information to see if you could be a donor (with your permission, of course!).</li>
+                            <li>After Someone Passes Away: Sometimes, doctors need to share information with people who help families after someone passes away.</li>
+                            <li>Work Stuff: If you get hurt at work, your employer might need some of your medical information to help you get better.</li>
+                            <li>In Court: If there is a legal case, a judge might ask to see your medical information.</li>
+                            <li>Police Stuff: If the police are investigating a crime, they might ask for information.</li>
+                            <li>Remember, we won’t share your information unless we have to by law.</li>
                         </dd>
                         
                         <div className="100%"></div>
