@@ -23,8 +23,8 @@ const PrivacyPage = ({ data }) => {
                     <dl className="dl-primary lead row">
                         <dt>Want a copy of your medical records?</dt>
                         <dd>
-                            <li>You can request them by email: patientinquiry@onmed.com. We can send them to you by secure e-mail or on paper, whichever you prefer.</li>
-                            <li>•	We’ll usually have your records or a summary ready within 30 days of your request. There might be a small fee to cover the cost of providing them.</li>
+                            <li>You can request them by email: patientinquiry@onmed.com. We can send them to you by secure e-mail or on paper, whichever you prefer.</li><br>
+                            <li>We’ll usually have your records or a summary ready within 30 days of your request. There might be a small fee to cover the cost of providing them.</li>
                         </dd>
                         
                         <div className="100%"></div>
@@ -46,9 +46,9 @@ const PrivacyPage = ({ data }) => {
 
                         <dt>There are some situations where you can limit how we use or share your medical information.</dt>
                         <dd>
-                            <li>This applies to things related to treatment, billing and how we run our practice. However, there are times when the law requires us to share your information regardless of your request.</li>
-                            <p>Here are some examples:</p>
-                            <li>We can share your information with your insurance company to process a bill.</li>
+                            <li>This applies to things related to treatment, billing and how we run our practice. However, there are times when the law requires us to share your information regardless of your request.</li><br>
+                            <p>Here are some examples:</p><br>
+                            <li>We can share your information with your insurance company to process a bill.</li><br>
                             <li>We can share your information with another doctor involved in your treatment.</li>
                         </dd>
       
@@ -79,7 +79,7 @@ const PrivacyPage = ({ data }) => {
                         <dt>Think we’ve violated your privacy rights?</dt>
                         <dd>
                             <li>We take complaints seriously. You can let us know by email at patientinquiry@onmed.com, or you can file a complaint with the U.S. Department of Health & Human Services. Here is how to contact them: 
-                                by email OCR at OCRMail@hhs.gov or call the U.S. Department of Health and Human Services, Office for Civil Rights toll-free at: 1-800-368-1019, TDD: 1-800-537-7697. </li>
+                                by email OCR at OCRMail@hhs.gov or call the U.S. Department of Health and Human Services, Office for Civil Rights toll-free at: 1-800-368-1019, TDD: 1-800-537-7697. </li><br>
                             <li>Just to be clear, we will never punish you in any way for filing a complaint.</li>
                         </dd>
       
@@ -87,7 +87,7 @@ const PrivacyPage = ({ data }) => {
 
                         <dt>We can share your medical information with your consent.</dt>
                         <dd>
-                            <li>Your family, friends, or a caregivers;</li>
+                            <li>Your family, friends, or a caregivers;</li><br>
                             <li>Your name might show up on a hospital list if you are ok with it; and</li>
                         </dd>
       
@@ -95,7 +95,7 @@ const PrivacyPage = ({ data }) => {
 
                         <dt>We may share your medical information without your consent.</dt>
                         <dd>
-                            <li>In emergencies, like a disaster;</li>
+                            <li>In emergencies, like a disaster;</li><br>
                             <li>If you can’t tell us what you want, or if you’re really hurt, we might share your information anyway because we want to help you.</li>
                         </dd>
       
@@ -136,7 +136,7 @@ export default PrivacyPage;
 
 export const Head = () => (
     <>
-        <title>Privacy Policy - OnMed</title>
+        <title>HIPAA Privacy Notice - OnMed</title>
         <MetaTags></MetaTags>
     </>
 );
