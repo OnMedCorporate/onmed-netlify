@@ -15,7 +15,7 @@ const PrivacyPage = ({ data }) => {
             <div class="row justify-content-center">
                 <div class="col-lg-10 col-xxl-12">
                     <p>Effective Date: July 2024</p>
-                    <h2 class="h6 mt-5">NOTICE OF PRIVACY PRACTICES</h2>
+                    <h2 class="h5 mt-5">NOTICE OF PRIVACY PRACTICES</h2>
                     <p>You’re in control of your medical information! This document explains what happens to your medical records, including how we use them, share them with others, and how you can see them.</p>
                     
                     <div className="row justify-content-center">
@@ -116,7 +116,7 @@ const PrivacyPage = ({ data }) => {
                         <div className="100%"></div>
                     </dl>
                     <dl className="dl-primary lead row">
-                        <h3>Who gets to see your medical information?</h3>
+                        <h4>Who gets to see your medical information?</h4>
                         <dt>Treatment</dt>
                         <dd>
                             <li>Example: A nurse treating you for an illness asks another nurse or doctor about your illness to help you get better.</li>
@@ -138,7 +138,7 @@ const PrivacyPage = ({ data }) => {
                         <div className="100%"></div>
                     </dl>
                     <dl className="dl-primary lead row">
-                        <h3>Who else might get to see your medical information?</h3>
+                        <h4>Who else might get to see your medical information?</h4>
                         <dt>We might also share your medical information in some special cases, like:</dt>
                         <dd>
                             <li>Emergencies: If there is a fire or an accident, doctors might need to share your information to help you quickly.</li>
@@ -154,6 +154,11 @@ const PrivacyPage = ({ data }) => {
                         
                         <div className="100%"></div>
                     </dl>
+                    <h2 class="h5 mt-5">It’s our job by law to keep your medical information safe and private.</h2>
+                    <h2 class="h5 mt-5">If something happens and someone might be able to see your information that shouldn’t, we will let you know right away.</h2>
+                    <h2 class="h5 mt-5">These rules can change sometimes, but they’ll always apply to your medical information. If they change, we’ll let you know and you can ask for a copy of the new ones at our CareStation or see them on our website.</h2>
+                    <h2 class="h5 mt-5">Got it!</h2>
+                    <h2 class="h5 mt-5">This explains how we use your medical information and what you can do with it.</h2>
                 </div>
             </div>
                     
