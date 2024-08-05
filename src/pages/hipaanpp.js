@@ -11,15 +11,15 @@ const PrivacyPage = ({ data }) => {
     );
 
     const sectionContent = (
-        <div class="container py-4 py-md-6">
+        <div class="container py-6 py-md-12">
             <div class="row justify-content-center">
-                <div class="col-lg-8 col-xxl-6">
+                <div class="col-lg-10 col-xxl-12">
                     <p>Effective Date: July 2024</p>
                     <h2 class="h6 mt-5">NOTICE OF PRIVACY PRACTICES</h2>
                     <p>You’re in control of your medical information! This document explains what happens to your medical records, including how we use them, share them with others, and how you can see them.</p>
                     
                     <div className="row justify-content-center">
-                    <div className="col-lg-10 col-xl-8">
+                    <div className="col-lg-10 col-xl-12">
                     <dl className="dl-primary lead row">
                         <dt>Want a copy of your medical records?</dt>
                         <dd>
