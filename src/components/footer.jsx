@@ -34,7 +34,8 @@ const Footer = ({ data }) => {
             <p>Copyright ©{year} OnMed. All Rights Reserved.</p>
             <p>
               <Link to="/terms-conditions">Terms and Conditions</Link> |{" "}
-              <Link to="/privacy-policy">Privacy Policy</Link>
+              <Link to="/privacy-policy">Privacy Policy</Link> |{" "}
+              <Link to="/hipaanpp">HIPAA NPP</Link>
             </p>
           </div>
           <div
