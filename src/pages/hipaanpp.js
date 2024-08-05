@@ -23,7 +23,7 @@ const PrivacyPage = ({ data }) => {
                     <dl className="dl-primary lead row">
                         <dt>Want a copy of your medical records?</dt>
                         <dd>
-                            <li>You can request them by email: patientinquiry@onmed.com. We can send them to you by secure e-mail or on paper, whichever you prefer.</li><br>
+                            <li>You can request them by email: patientinquiry@onmed.com. We can send them to you by secure e-mail or on paper, whichever you prefer.</li>
                             <li>We’ll usually have your records or a summary ready within 30 days of your request. There might be a small fee to cover the cost of providing them.</li>
                         </dd>
                         
@@ -46,9 +46,9 @@ const PrivacyPage = ({ data }) => {
 
                         <dt>There are some situations where you can limit how we use or share your medical information.</dt>
                         <dd>
-                            <li>This applies to things related to treatment, billing and how we run our practice. However, there are times when the law requires us to share your information regardless of your request.</li><br>
-                            <p>Here are some examples:</p><br>
-                            <li>We can share your information with your insurance company to process a bill.</li><br>
+                            <li>This applies to things related to treatment, billing and how we run our practice. However, there are times when the law requires us to share your information regardless of your request.</li>
+                            <p>Here are some examples:</p>
+                            <li>We can share your information with your insurance company to process a bill.</li>
                             <li>We can share your information with another doctor involved in your treatment.</li>
                         </dd>
       
@@ -79,7 +79,7 @@ const PrivacyPage = ({ data }) => {
                         <dt>Think we’ve violated your privacy rights?</dt>
                         <dd>
                             <li>We take complaints seriously. You can let us know by email at patientinquiry@onmed.com, or you can file a complaint with the U.S. Department of Health & Human Services. Here is how to contact them: 
-                                by email OCR at OCRMail@hhs.gov or call the U.S. Department of Health and Human Services, Office for Civil Rights toll-free at: 1-800-368-1019, TDD: 1-800-537-7697. </li><br>
+                                by email OCR at OCRMail@hhs.gov or call the U.S. Department of Health and Human Services, Office for Civil Rights toll-free at: 1-800-368-1019, TDD: 1-800-537-7697. </li>
                             <li>Just to be clear, we will never punish you in any way for filing a complaint.</li>
                         </dd>
       
@@ -87,7 +87,7 @@ const PrivacyPage = ({ data }) => {
 
                         <dt>We can share your medical information with your consent.</dt>
                         <dd>
-                            <li>Your family, friends, or a caregivers;</li><br>
+                            <li>Your family, friends, or a caregivers;</li>
                             <li>Your name might show up on a hospital list if you are ok with it; and</li>
                         </dd>
       
@@ -95,7 +95,7 @@ const PrivacyPage = ({ data }) => {
 
                         <dt>We may share your medical information without your consent.</dt>
                         <dd>
-                            <li>In emergencies, like a disaster;</li><br>
+                            <li>In emergencies, like a disaster;</li>
                             <li>If you can’t tell us what you want, or if you’re really hurt, we might share your information anyway because we want to help you.</li>
                         </dd>
       
@@ -113,6 +113,28 @@ const PrivacyPage = ({ data }) => {
                             <li>Or try to sell you stuff. We also won’t share any therapy information unless you sign a paper saying it’s okay.</li>
                         </dd>
       
+                        <div className="100%"></div>
+                    </dl>
+                    <dl className="dl-primary lead row">
+                        <h2>Who gets to see your medical information?</h2>
+                        <dt>Treatment</dt>
+                        <dd>
+                            <li>Example: A nurse treating you for an illness asks another nurse or doctor about your illness to help you get better.</li>
+                        </dd>
+                        
+                        <div className="100%"></div>
+                        <dt>Internally</dt>
+                        <dd>
+                            <li>Example: We use your medical information to help take care of you and decide on the best treatment. </li>
+                        </dd>
+                        
+                        <div className="100%"></div>
+
+                        <dt>Billing</dt>
+                        <dd>
+                            <li>Example: We give your health information to your health insurance plan so it will pay for your visit.</li>
+                        </dd>
+                        
                         <div className="100%"></div>
                     </dl>
                 </div>
