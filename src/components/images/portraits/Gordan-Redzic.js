@@ -7,7 +7,7 @@ export function ImgPortraitGordanRedzic(props) {
             src="../../../../static/images/portraits/Gordan_Redzic.jpg"
             alt={props.alt}
             className={props.className}
-            layout="fullWidth"
+            layout="fullWidth" 
         />
     );
 }
