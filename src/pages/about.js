@@ -13,7 +13,7 @@ import { ImgPortraitAshleyChristy } from "../components/images/portraits/Ashley-
 import { ImgPortraitJaimeDictenberg } from "../components/images/portraits/Jaime-Dictenberg";
 import { ImgPortraitHowardGruverman } from "../components/images/portraits/howard-gruverman";
 import { ImgPortraitAsgharHusain } from "../components/images/portraits/Asghar-Husain";
-import { ImgPortraitGordanRezdic } from "../components/images/portraits/Gordan-Redzic";
+import { ImgPortraitGordanRedzic } from "../components/images/portraits/Gordan-Redzic";
 import { ImgHeroWomanScreenWomanTouchscreen } from "../components/images/heroes/woman-screen-woman-touchscreen";
 
 import Hero from "../components/hero";
